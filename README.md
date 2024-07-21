@@ -1,11 +1,6 @@
 # DockerでオリジナルのRails開発環境を構築する
 DockerでLaravel環境を構築し、dev-rails.menta.work(rails)を立ち上げて監視する。
 
-## 表示確認
-サイトが表示されることを確認。
-![rails表示証跡](https://github.com/kouzyun/MENTA/assets/63705498/37eff4be-676f-4a7f-b699-1940e987850f)
-
-
 ## 構築手順
 1. `hostsファイル`に以下の設定を行う。
 
