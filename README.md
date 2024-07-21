@@ -1,4 +1,4 @@
-# 15 DockerでオリジナルのRails開発環境を構築する
+# DockerでオリジナルのRails開発環境を構築する
 DockerでLaravel環境を構築し、dev-rails.menta.work(rails)を立ち上げて監視する。
 
 ## 表示確認
