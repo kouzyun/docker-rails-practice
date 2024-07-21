@@ -1,4 +1,4 @@
 /tmp/cache/*
-
+/config/master.key
 /docker/dev/mysql/db_data/*
 /docker/dev/redis/db_data/*
